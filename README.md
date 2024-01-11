@@ -1,1 +1,1 @@
-###Решение задач с сайта codewars
+### Решение задач с сайта [codewars](https://www.codewars.com/)
